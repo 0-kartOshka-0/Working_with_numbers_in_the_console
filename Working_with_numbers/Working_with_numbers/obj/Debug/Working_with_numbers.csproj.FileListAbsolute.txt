@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\bin\Debug\Working_with_numbers.exe.config
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\bin\Debug\Working_with_numbers.exe
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\bin\Debug\Working_with_numbers.pdb
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.exe
+C:\Users\Пользователь\Desktop\Для гита\Добавленные\Переделанные\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.pdb
